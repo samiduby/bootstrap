@@ -1,5 +1,19 @@
-.heroBG {
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.heroBG, .footerBG {
     background: #E5F2C9;
+}
+
+.heroList {
+    text-align: left;
+    padding-left: 25%;
+    
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .buttonBG {
