@@ -19,3 +19,22 @@ body {
 .buttonBG {
     background: #8EA49D;
 }
+
+h6 {
+    text-align: left;
+}
+
+.bold {
+    font-weight: bold;
+}
+.spotify {
+    max-width: 400px;
+    text-align: left;
+    float: left;
+    padding-right: 8px;
+}
+
+.emotion {
+    margin: 0px;
+    
+}
