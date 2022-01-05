@@ -45,3 +45,10 @@ h6 {
     font-size: 24px;
     font-weight: bold;
 }
+.imgWhy {
+    max-width: 300px;
+    text-align: center;
+}
+.imgCirc {
+    max-width: 200px;
+}
